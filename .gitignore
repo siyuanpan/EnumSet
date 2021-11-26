@@ -1,0 +1,5 @@
+.vscode
+.clang-format
+a.out
+log.txt
+test.cpp
